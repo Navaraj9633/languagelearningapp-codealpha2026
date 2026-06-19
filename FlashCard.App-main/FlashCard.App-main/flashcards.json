@@ -1,0 +1,30 @@
+[
+    {
+        "question": "What is Python's GUI library?",
+        "answer": "Tkinter"
+    },
+    {
+        "question": "What is Java?",
+        "answer": "Java is a popular,Object-Oriented Programming Language."
+    },
+    {
+        "question": "what is a list in python?",
+        "answer": "A list  is an ordered,mutable collection of items."
+    },
+    {
+        "question": "what  does if do in python?",
+        "answer": "It checks a condition and runs code if true."
+    },
+    {
+        "question": "what is None in Python?",
+        "answer": "It represents the absence of a value."
+    },
+    {
+        "question": "what does def define in python?",
+        "answer": "It defines a function."
+    },
+    {
+        "question": "What does print()do in python?",
+        "answer": "It displays output to the console."
+    }
+]
